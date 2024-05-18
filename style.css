@@ -1,0 +1,25 @@
+body {
+  padding: 10px;
+}
+
+input {
+  margin: 5px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+textarea {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  margin-top: 15px;
+  border-radius: 6px;
+  background-color: white;
+  border: 1px solid black;
+}
